@@ -62,11 +62,11 @@
 - Ciberseguridad de Google — Google Career Certificates (Coursera), 2026
 - CS50x: Introduction to Computer Science — Harvard University (edX)
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SrNe0&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrNe0&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SrNe0?tab=repositories"><img src="https://img.shields.io/github/followers/SrNe0?label=Seguidores&style=for-the-badge&logo=github&color=blue" /></a>
+  <a href="https://github.com/SrNe0?tab=repositories"><img src="https://img.shields.io/badge/Repositorios_p%C3%BAblicos-6-blue?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
