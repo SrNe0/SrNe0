@@ -43,12 +43,6 @@
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## Proyectos
-
-- [finanzas-app](https://github.com/SrNe0/finanzas-app): finanzas personales con React, Fastify y Prisma · [Demo](https://finanzas-demo.srne0.dev)
-- [AdminPanel](https://github.com/SrNe0/AdminPanel): panel administrativo con React y Tailwind · [Demo](https://admin.srne0.dev)
-- [inventory-backend](https://github.com/SrNe0/inventory-backend): API REST de inventario con Spring Boot y PostgreSQL
-
 ## Contacto
 
 [![Portafolio](https://img.shields.io/badge/PORTAFOLIO-srne0.dev-3ddc97?style=for-the-badge&logo=googlechrome&logoColor=white)](https://srne0.dev)
