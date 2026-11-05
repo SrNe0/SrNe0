@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://srne0.dev"><img src="https://img.shields.io/badge/Portafolio-srne0.dev-3ddc97?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/diego-medina-srneo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:diegosistemas29@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SrNe0&style=for-the-badge&color=blue" />
@@ -18,6 +19,7 @@
 - 💼 Más de un año de experiencia como **Desarrollador Junior** construyendo y manteniendo APIs REST para sistemas internos.
 - 🔐 Formación complementaria en **ciberseguridad** (MinTIC/Andes y Google Career Certificates).
 - 🌱 Practicando de forma continua con proyectos de backend en Python, TypeScript y Java, y aprendiendo **C# / .NET**.
+- 🌐 Mi portafolio: **[srne0.dev](https://srne0.dev)**
 - 🗣️ Idiomas: Español (nativo), Inglés (intermedio), Portugués (básico).
 
 ## 🛠️ Tecnologías
