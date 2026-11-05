@@ -51,8 +51,8 @@
 | Proyecto | Descripción |
 |---|---|
 | [reservas-app](https://github.com/SrNe0/reservas-app) | Plataforma de reservas y turnos para negocios. |
-| [AdminPanel](https://github.com/SrNe0/AdminPanel) | Panel administrativo con React 19, Vite y Tailwind CSS: CRUD, rutas protegidas y CI. |
-| [finanzas-app](https://github.com/SrNe0/finanzas-app) | Finanzas personales (deudas, gastos, fuentes de dinero) con React, Fastify, Prisma y SQLite. |
+| [AdminPanel](https://github.com/SrNe0/AdminPanel) | Panel administrativo con React 19, Vite y Tailwind CSS: CRUD, rutas protegidas y CI. · [Demo](https://admin.srne0.dev) |
+| [finanzas-app](https://github.com/SrNe0/finanzas-app) | Finanzas personales (deudas, gastos, fuentes de dinero) con React, Fastify, Prisma y SQLite. · [Demo](https://finanzas-demo.srne0.dev) |
 | [inventory-backend](https://github.com/SrNe0/inventory-backend) | API REST de control de inventario con Java, Spring Boot y PostgreSQL. |
 | [thinkpad-fan-control](https://github.com/SrNe0/thinkpad-fan-control) | Monitor y control gráfico de ventiladores para ThinkPad en Linux. |
 | [contact_manager](https://github.com/SrNe0/contact_manager) | Gestor de contactos por consola en Python: arquitectura por capas, JSON y exportación CSV. |
