@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Diego 👋</h1>
 
-<p align="center">Desarrollador backend · Ingeniería de Sistemas, UIS · Bucaramanga, Colombia 🇨🇴</p>
+<p align="center">Desarrollador backend · Ingeniería de Sistemas, UIS · Bucaramanga, Colombia</p>
 
 ---
 
